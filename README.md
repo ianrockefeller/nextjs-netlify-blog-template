@@ -1,3 +1,14 @@
+# I UPDATED THE REPO TO WORK WITH THE LATEST VERSION OF NEXT, etc.
+
+If you're out there, I could use some help updating the code.
+
+Code has been downgraded to JS and the react facebook, instagram, and twitter libraries have been removed since they are no longer supported. 
+
+TODO:
+- Convert to TS
+- Replace missing dependencies
+- Any bugs
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
